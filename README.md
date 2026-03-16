@@ -75,16 +75,16 @@ Built an interactive Power BI dashboard to visualize campaign performance, platf
 # Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](sales_overview.png)
 
 ### Campaign Performance
-![Campaign Performance](images/campaign_performance.png)
+![Campaign Performance](campaign_performance.png)
 
 ### Platform Profitability
-![Platform Profitability](images/platform_profitability.png)
+![Platform Profitability](platform_profitability.png)
 
 ### Monthly Trends
-![Monthly Trends](images/monthly_trends.png)
+![Monthly Trends](monthly_trends.png)
 
 ### 5. Reporting
 Generated insights and summarized findings through a presentation.
