@@ -1,8 +1,6 @@
 # Digital-Marketing-Sales-Analysis
  Project Description  This project analyzes digital marketing campaign performance across multiple advertising platforms using Power BI. The dashboard provides insights into sales performance, campaign effectiveness, platform profitability, and monthly trends to support data-driven marketing decisions.
 
-# Digital Marketing Sales Analysis Dashboard | Power BI
-
 ## Overview
 This project analyzes the performance of digital marketing campaigns run by an e-commerce company across multiple advertising platforms. The goal is to evaluate campaign effectiveness, identify profitable platforms, and uncover insights that help maximize revenue from digital marketing efforts.
 
